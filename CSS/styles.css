@@ -1,0 +1,84 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #e0feff;
+}
+
+.top-container {
+  margin-top: 0;
+  margin: 2% auto 2% auto;
+}
+/*
+aside {
+  float: left;
+  text-align: right;
+  position: absolute;
+  left: 290px;
+}
+
+aside ul {
+  list-style-type: none;
+  padding: 0;
+}
+*/
+/* button attributes */
+.myButton {
+  box-shadow: 0px 0px 0px 2px #9fb4f2;
+  background: linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+  background-color: #7892c2;
+  border-radius: 10px;
+  border: 1px solid #4e6096;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 19px;
+  padding: 12px 37px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #283966;
+  position: relative;
+  width: 179px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+  background-color: #476e9e;
+}
+
+.myButton:active {
+  position: relative;
+}
+
+/* end button attributes*/
+.main-pic {
+  position: absolute;
+  left: 33%;
+  top: 310px;
+}
+
+.FB-button {
+  position: absolute;
+
+  left: 305px;
+  top: 542px;
+}
+
+.gallery-table {
+  position: absolute;
+  padding-left: 15%;
+}
+.index-table{
+
+}
+.index-buttons{
+  list-style-type: none;
+  position: absolute;
+  left: 250px;
+  top: 295px;
+
+}
+.index-buttons-cell{
+  float: right;
+}
